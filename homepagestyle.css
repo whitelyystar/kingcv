@@ -1,0 +1,58 @@
+
+.inline-div{
+    display:inline-block;
+}
+
+.inline-div2{
+    margin-left: 100px;
+    position: absolute;
+    
+}
+
+.inline-div3{
+    margin-top: 50px;
+}
+
+
+.colouronleft-div4{
+    background-color:#CBD3B4;
+}
+.spacebween-div5{
+    margin-top: 10px;
+}
+
+.box-div6{
+    
+        border: 10px solid #BCB4D3 ; /* Border color */
+        padding: 35px; /* Padding inside the rectangle */
+        /* Make the rectangle inline with the text */
+        background-color: #BCB4D3 ; /* Background color of the rectangle */
+        color: #2c3e50; /* Text color inside the rectangle */
+    
+}
+.littleleft{
+    margin-left: 30px;
+}
+.littleright{
+    margin-right: 30px;
+}
+.img{
+    border-radius: 300px;
+    overflow: hidden;
+}
+.hardright{
+    margin-left: 200px;
+}
+.text{
+    margin-right: 200px;
+}
+.h5{
+    text-decoration: underline;
+}
+.bitdown{
+    margin-top: 30px;
+  }
+h6{
+
+    margin-left: 20px;
+}

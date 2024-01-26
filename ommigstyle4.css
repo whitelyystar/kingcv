@@ -1,0 +1,39 @@
+h5{
+  margin-top: 40px;
+  margin-left: 40px;
+}
+h1{
+  margin-left: 30px;
+}
+
+.text{
+  
+  display: inline-block
+}
+.moreleft{
+  margin-left: 50px;
+}
+
+.picture{
+  display: inline-block;
+
+  border-radius: 20px;
+  overflow: hidden;
+  margin-left: 20px;
+}
+
+.design4{
+  
+  
+  border: 10px solid #454545 ; 
+  padding: 10px; 
+  
+  background-color: #454545 ; 
+  color:#FFFFFF;
+  margin-top: 30px;
+}
+.downup{
+  margin-top: 40px;
+  margin-left: 60px;
+}
+

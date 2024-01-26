@@ -1,0 +1,31 @@
+h1{
+    margin-left: 50px;
+     
+
+
+  }
+
+img{
+    
+    margin-top: 40px;
+    margin-left: 70px;
+
+} 
+ 
+.text{
+  margin-left: 40px;
+}
+
+.space{
+  margin-top: 30px;
+}
+.design3{
+  
+  
+  border: 10px solid #454545 ; 
+  padding: 10px; 
+  
+  background-color: #454545 ; 
+  color:#FFFFFF;
+  margin-top: 30px;
+}
